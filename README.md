@@ -59,7 +59,7 @@ This HTML document will serve the main page for your web server. Creating the HT
 
 ![Create an HTML Document](/images/6.png)
 
-2. Write a simple HTML document, this is a simple HTML document you can use, I will be using a different HTML document so the web page will look different from mine.
+2. Write a simple HTML document. This is a simple HTML document but you can use any HTML document as long as you know it works. 
 
 ```
 <!DOCTYPE html>
