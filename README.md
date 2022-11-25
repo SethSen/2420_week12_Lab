@@ -59,7 +59,7 @@ This HTML document will serve the main page for your web server. Creating the HT
 
 ![Create an HTML Document](/images/6.png)
 
-2. Write a simple HTML document, for the simplicity for this lab, I used a simple HTML boiler plate, however, any working HTML document will work.
+2. Write a simple HTML document, this is a simple HTML document you can use, I will be using a different HTML document so the web page will look different from mine.
 
 ```
 <!DOCTYPE html>
